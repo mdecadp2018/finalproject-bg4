@@ -7,8 +7,8 @@ http://mdecourse.github.io/2018fall/
 
 設定步驟:　https://github.com/scrum-1/scrum-1.github.io/wiki
 
-bg4網站:　https://mdecadp2018.github.io/finalproject-bg4/content/index.html
+bg4網站:　https://mdecadp2018.github.io/finalproject-bg4
 
-bg4網誌:　https://mdecadp2018.github.io/finalproject-bg4/blog/index.html
+bg4網誌:　https://mdecadp2018.github.io/finalproject-bg4/blog
 
-bg4簡報:　https://mdecadp2018.github.io/finalproject-bg4/reveal/index.html#/
+bg4簡報:　https://mdecadp2018.github.io/finalproject-bg4/reveal
