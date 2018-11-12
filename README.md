@@ -5,6 +5,10 @@ http://mdecourse.github.io/2018fall/
 
 分組示範倉儲: https://github.com/scrum-1/scrum-1.github.io
 
-設定步驟: https://github.com/scrum-1/scrum-1.github.io/wiki
+設定步驟:　https://github.com/scrum-1/scrum-1.github.io/wiki
 
-cpgx 網站: https://cpgx.kmol.info
+bg4網站:　https://mdecadp2018.github.io/finalproject-bg4/content/index.html
+
+bg4網誌:　https://mdecadp2018.github.io/finalproject-bg4/blog/index.html
+
+bg4簡報:　https://mdecadp2018.github.io/finalproject-bg4/reveal/index.html#/
