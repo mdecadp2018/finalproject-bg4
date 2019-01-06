@@ -286,7 +286,9 @@ Scale folding bike
 
 我們將這個專題分為幾個主要重點
 * 為何選擇這個題目
-* 如何將摺疊功能更完善</t>
+* 如何將摺疊功能更完善
+
+</t>
 <t tx="leo.20190106144024.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -317,7 +319,7 @@ Scale folding bike
 * 40623210 翁嘉宏 車架與摺疊機構繪圖
 * 40623220 蔡崇廷 報告與簡報製作
 * 40623215 吳柏毅 輪框與座墊繪圖
-* 40623216 楊士平 
+* 40623216 楊士平 網站整理
 * 40623232 余建杰 
 * 40623234 洪一木 
 
@@ -337,7 +339,9 @@ Scale folding bike
 
 * 單邊後三角，少了一邊，體積更輕，摺疊後體積更小。
 
-* 因單邊的設計較脆弱必須增加其斷面面積以確保產品結構安全。</t>
+* 因單邊的設計較脆弱必須增加其斷面面積以確保產品結構安全。
+
+</t>
 <t tx="leo.20190106151817.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -378,6 +382,8 @@ Scale folding bike
 
 						
 </t>
-<t tx="leo.20190106154037.2"># 報告結束</t>
+<t tx="leo.20190106154037.2"># 報告結束
+
+</t>
 </tnodes>
 </leo_file>
