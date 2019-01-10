@@ -146,8 +146,7 @@ vertical: body pane on the botton</t>
 40623232 余建杰  40623234 洪一木
 *指導教授：Dr. Scrum
 &lt;small&gt;
-Created by [bg4](http://lab.kmol.info/)
-
+*Created by [bg4](http://lab.kmol.info/)
 [bg4分組網誌](./../blog/index.html)
 &lt;/small&gt;
 
