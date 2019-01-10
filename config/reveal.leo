@@ -144,7 +144,7 @@ vertical: body pane on the botton</t>
 40623210 翁嘉宏  40623215 吳柏毅
 40623216 楊士平  40623220 蔡崇廷
 40623232 余建杰  40623234 洪一木
-指導教授：Dr. Scrum
+*指導教授：Dr. Scrum
 &lt;small&gt;
 Created by [bg4](http://lab.kmol.info/)
 
