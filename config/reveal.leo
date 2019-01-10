@@ -21,7 +21,7 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20180827201621.11" a="E"><vh>專題</vh>
@@ -145,7 +145,15 @@ vertical: body pane on the botton</t>
 Created by [bg4](http://lab.kmol.info/)
 &lt;/small&gt;
 
-[2018 Fall bg4分組網誌](./../blog/index.html)
+摺疊自行車模型設計製作
+Scale folding bike
+
+40623210 翁嘉宏  40623215 吳柏毅
+40623216 楊士平  40623220 蔡崇廷
+40623232 余建杰  40623234 洪一木
+指導教授：Dr. Scrum
+
+[bg4分組網誌](./../blog/index.html)
 
 
 </t>
