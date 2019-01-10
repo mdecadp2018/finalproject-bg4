@@ -147,12 +147,10 @@ Created by [bg4](http://lab.kmol.info/)
 
 摺疊自行車模型設計製作
 Scale folding bike
-
 40623210 翁嘉宏  40623215 吳柏毅
 40623216 楊士平  40623220 蔡崇廷
 40623232 余建杰  40623234 洪一木
 指導教授：Dr. Scrum
-
 [bg4分組網誌](./../blog/index.html)
 
 
