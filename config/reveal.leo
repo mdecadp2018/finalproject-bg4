@@ -21,10 +21,10 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>專題</vh>
+<v t="leo.20180827201621.11"><vh>專題</vh>
 <v t="leo.20180827201621.12"><vh>專題</vh></v>
 </v>
 <v t="leo.20190106144022.1" a="E"><vh>專題執行規劃</vh>
@@ -33,8 +33,20 @@
 <v t="leo.20190106145216.1"><vh>具體完成任務</vh>
 <v t="leo.20190106145216.3"><vh>如何將摺疊功能更完善</vh></v>
 </v>
-<v t="leo.20190113192414.1" a="E"><vh>自行車零件</vh>
-<v t="leo.20190113192414.2"><vh>如何將摺疊功能更完善</vh></v>
+<v t="leo.20190114212658.1" a="E"><vh>每周進度</vh>
+<v t="leo.20190114212658.2"><vh>每週進度</vh></v>
+</v>
+<v t="leo.20190114210711.1"><vh>每周進度</vh>
+<v t="leo.20190114210711.2"><vh>W11-12</vh></v>
+</v>
+<v t="leo.20190114210721.1"><vh>每周進度</vh>
+<v t="leo.20190114210721.2"><vh>W13-14</vh></v>
+</v>
+<v t="leo.20190114210732.1"><vh>每周進度</vh>
+<v t="leo.20190114210732.2"><vh>W15-16</vh></v>
+</v>
+<v t="leo.20190114210725.1"><vh>每周進度</vh>
+<v t="leo.20190114210725.2"><vh>W17-18</vh></v>
 </v>
 <v t="leo.20190106151817.1"><vh>問題與檢討</vh>
 <v t="leo.20190106151817.2"><vh>問題與檢討</vh></v>
@@ -277,6 +289,14 @@ Scale folding bike
 
 * 如何將摺疊功能更完善
 
+* 每週進度
+
+* 問題討論
+
+* 心得
+
+* 各組員分工
+
 </t>
 <t tx="leo.20190106144025.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -359,7 +379,7 @@ Scale folding bike
 <t tx="leo.20190106154037.2"># 報告結束
 
 </t>
-<t tx="leo.20190113192414.1">&lt;section data-markdown&gt;
+<t tx="leo.20190114210711.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -368,13 +388,78 @@ Scale folding bike
 
 						
 </t>
-<t tx="leo.20190113192414.2">## 如何將摺疊功能更完善
+<t tx="leo.20190114210711.2">## 進度W11-12
+* 與組員討論專題要做哪個
 
-* 單臂前叉設計搭配單臂後三角折疊更省空間。
+* 訂定題目後開始討論專題內容
 
-* 單邊後三角，少了一邊，體積更輕，摺疊後體積更小。
+* Onshape手冊製作的分工
 
-* 因單邊的設計較脆弱必須增加其斷面面積以確保產品結構安全。
+</t>
+<t tx="leo.20190114210721.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190114210721.2">## 進度W13-14
+* 自行車零件繪製分工
+
+* 討論摺疊機構及分析
+
+
+
+
+
+</t>
+<t tx="leo.20190114210725.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190114210725.2">## 進度W17-18
+* v-rep的模擬完成
+
+* 期末簡報與報告完成，於18週上台報告
+
+
+</t>
+<t tx="leo.20190114210732.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190114210732.2">## 進度W15-16
+* 自行車所有零件繪製完成開始組裝
+
+* v-rep開始模擬並修改問題
+
+* 統整資料與製作報告和簡報
+
+
+</t>
+<t tx="leo.20190114212658.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190114212658.2"># 每週進度
+
 
 </t>
 </tnodes>
